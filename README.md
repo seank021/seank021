@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&text=seank021-nl-&fontSize=50&animation=blinking&&desc=Sean%20Kim,%20SNU&fontAlignY=45&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&text=Sean%20Kim-nl-&fontSize=50&animation=fadeIn&desc=Linguistics,%20CS&fontAlignY=45&descAlignY=75)
 
 <br>
 
