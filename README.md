@@ -18,7 +18,6 @@
 
 # 😺 About Me 😺
 <img src="https://img.shields.io/badge/seahn1021@snu.ac.kr-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/soyseansauce-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 
 <br>
